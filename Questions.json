@@ -1,0 +1,65 @@
+[
+	{
+		"question": "vopros1",
+		"answer1": "otvet1",
+		"answer2": "otvet2",
+		"answer3": "otvet3",
+		"answer4": "otvet4",
+		"correctAnswer": "otvet2",
+		"hint": "text for hint(podskazka)"
+	},
+	{
+		"question": "test2",
+		"answer1": "sdsd",
+		"answer2": "asdas",
+		"answer3": "xzc",
+		"answer4": "zxc",
+		"correctAnswer": "zxc",
+		"hint": "hint"
+	},
+	{
+		"question": "1+1",
+		"answer1": "2+2",
+		"answer2": "3+3",
+		"answer3": "2-1",
+		"answer4": "4-2",
+		"correctAnswer": "4-2",
+		"hint": "da"
+	},
+	{
+		"question": "dota",
+		"answer1": "cs",
+		"answer2": "mine",
+		"answer3": "valo",
+		"answer4": "terraria",
+		"correctAnswer": "terraria",
+		"hint": "terraria"
+	},
+	{
+		"question": "boo",
+		"answer1": "aa",
+		"answer2": "ow",
+		"answer3": "owl",
+		"answer4": "oh",
+		"correctAnswer": "oh",
+		"hint": "ad"
+	},
+	{
+		"question": "Какое количество обсидиана требуется для создания портала в Ад?",
+		"answer1": "10",
+		"answer2": "12",
+		"answer3": "16",
+		"answer4": "8",
+		"correctAnswer": "10",
+		"hint": "5+5+5-5"
+	},
+	{
+		"question": "Where is Canada on world map?",
+		"answer1": "Under Russia",
+		"answer2": "Pod rossiey",
+		"answer3": "Na yuge",
+		"answer4": "Tam",
+		"correctAnswer": "Tam",
+		"hint": "Nu tipa von tam"
+	}
+]
